@@ -1,0 +1,14 @@
+# Rezultatele construirii
+out/
+build/
+.gradle/
+
+# Android Studio / local
+local.properties
+.idea/
+*.iml
+
+# Cheia de semnare: rămâne doar la tine, niciodată pe GitHub
+keystore/
+*.jks
+*.keystore
